@@ -1,1 +1,1 @@
-# learnBoost
+# Boost
